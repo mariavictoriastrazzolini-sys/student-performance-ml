@@ -3,7 +3,7 @@ Proyecto Machine Learning – Rendimiento de Estudiantes
 
 Este proyecto tiene como objetivo analizar el rendimiento académico de estudiantes mediante técnicas de análisis de datos y Machine Learning, con el fin de identificar las variables que influyen en su desempeño.
 
-Objetivos
+**Objetivos**
 
 Analizar un dataset académico
 
@@ -13,7 +13,8 @@ Construir modelos predictivos
 
 Interpretar métricas y resultados obtenidos
 
-Proceso de trabajo
+**Proceso de trabajo**
+
 🔹 Carga y preparación de datos
 
 Importación del dataset en Google Colab
@@ -47,11 +48,11 @@ Interpretación de resultados
 Herramientas utilizadas : Python, Pandas, Numpy, Librerias de Machine Learning, Librerias de visualizacion, Google Colab
 
 
-Resultados
+**Resultados**
 
 El análisis permitió identificar variables con impacto significativo en el rendimiento académico y desarrollar modelos predictivos para su estimación.
 
-Aprendizajes
+**Aprendizajes**
 
 Este proyecto permitió fortalecer conocimientos en:
 
